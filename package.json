@@ -18,7 +18,13 @@
     "@angular/platform-browser": "^16.2.0",
     "@angular/platform-browser-dynamic": "^16.2.0",
     "@angular/router": "^16.2.0",
+    "@zxing/browser": "^0.1.5",
+    "bootstrap": "^5.3.3",
+    "groq-sdk": "^0.7.0",
+    "jquery": "^3.7.1",
+    "popper.js": "^1.16.1",
     "rxjs": "~7.8.0",
+    "sweetalert2": "^11.14.1",
     "tslib": "^2.3.0",
     "zone.js": "~0.13.0"
   },
